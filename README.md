@@ -3,13 +3,13 @@
 This dataset is collated  from https://data.gov.in. It has state-wise data on the variouscrimes committed against womwn between
 2001 - 2021. some crimes that are included are RAPE,KIDNAPPING AND ABDUCTION, DOWRY DEATHS etc..
 
- THese are two datasets available from the gives government organization from 201 to 2024 and 2001 - 2021.I worked the data ,convertor,cleaned,merged, and made it into a
- sinle dataset.
+ These are two datasets available from the gives government organization from 2001 to 2024 and 2001 - 2021.I worked the data ,convertor,cleaned,merged, and made it into a
+ single dataset.
   
 Dataset used:
 https://www.kaggle.com/datasets/balajivaraprasad/crimes-against-women-in-india-2001-2021
 
-Live interactin with TABLEAU DASHBOARD :
+Live interaction with TABLEAU DASHBOARD :
      https://public.tableau.com/views/Womenscrime/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
